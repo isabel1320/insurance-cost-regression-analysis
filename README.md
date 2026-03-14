@@ -61,11 +61,8 @@ Several visualizations were created to explore the relationships between variabl
 #### Age vs Healthcare Cost
 ![Age vs Healthcare Cost](images/age_scatter.png)
 
-#### Average Healthcare Cost by Region
-![Average Healthcare Cost by Region](images/region_cost.png)
-
 #### Distribution of Healthcare Costs
-![Distribution of Healthcare Costs](images/cost_histogram.png)
+![Distribution of Healthcare Costs](images/cost_distribution_histogram.png)
 
 ---
 
@@ -101,7 +98,7 @@ A decision tree model was used to capture nonlinear relationships and evaluate f
 - The model helped visualize how different variables interact.
 
 #### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images/decision_tree_feature_importance.png)
 
 ---
 
